@@ -1,4 +1,4 @@
-package Multithreading.Basic;
+package Multithreading.basic;
 
 public class ThreadCreationByImplement {
     public static void main(String[] args) {

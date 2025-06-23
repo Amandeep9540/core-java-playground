@@ -1,4 +1,4 @@
-package Multithreading.ProducerConsumerProblem1;
+package Multithreading.producerConsumerProblem1;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

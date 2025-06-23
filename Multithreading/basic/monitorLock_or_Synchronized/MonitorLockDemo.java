@@ -1,4 +1,4 @@
-package Multithreading.Basic;
+package Multithreading.basic.monitorLock_or_Synchronized;
 
 public class MonitorLockDemo {
     public static void main(String[] args) {
